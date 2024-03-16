@@ -1,0 +1,44 @@
+form
+{
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  gap: 0.5rem
+}
+p
+{
+  font-size: 0.7rem;
+  margin-top: 0.2px;
+  margin-bottom: 0px;
+}
+/* div
+{
+    height: 50px
+} */
+input
+{
+    border: 1px solid red;
+    width: 100%;
+    /* border-color: aquamarine; */
+}
+
+.red
+{
+    border: 1px solid red;
+}
+
+.green
+{
+    border: 2px solid green;
+}
+button
+{
+    width: 50%;
+    align-self: center;
+    justify-self: center;
+    /* background-color: rgb(98, 98, 186);
+    outline: none;
+    border: none;
+    padding-inline: 2%; */
+}
